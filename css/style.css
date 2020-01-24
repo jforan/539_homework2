@@ -36,24 +36,24 @@ div{
 }
 
 #red {
-  background: red;
+  background: #940000;
   text-align: right;
 }
 
 #blue {
-  background: blue;
+  background: #1800ff;
   text-align: left;
 }
 
 #yellow {
-  background: yellow;
+  background: #feff02;
   text-align: right;
   color: black;
   text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green {
-  background: green;
+  background: #008000;
   text-align: left;
 }
 
